@@ -1,4 +1,5 @@
-require("./main.css")
+// require("./main.css")
+require("./main.sass")
 require("./index.html")
 // alert("hello world!!!");
 
