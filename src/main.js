@@ -1,6 +1,7 @@
 // require("./main.css")
-require("./main.sass")
 require("./index.html")
+require("./sass/main.sass")
+require("./script/index.js")
 // alert("hello world!!!");
 
 var a = () => {
